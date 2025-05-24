@@ -1,6 +1,6 @@
 .oddNumber {
     background-color: rgb(250, 173, 173);
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #number2 {
@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-.number3 {
+.adust-font-size {
     font-size: 24px;
 }
 
 #number4 {
     background-color: rgb(143, 254, 143);
-    font-size: 24px;
     font-weight: bold;
 }
